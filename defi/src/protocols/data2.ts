@@ -11525,7 +11525,7 @@ const data2: Protocol[] = [
     address: null,
     symbol: "-",
     url: "https://azuro.org",
-    description: "Azuro is an infrastructure & liquidity layer for on-chain betting. It utilizes a new Liquidity Pool design called the “Liquidity Tree,” which creates and maintains market liquidity.",
+    description: "Azuro is the infrastructure and liquidity layer for sports markets and games of chance. It utilizes a new Liquidity Pool design called the “Liquidity Tree,” which creates and maintains market liquidity.",
     chain: "xDai",
     logo: `${baseIconsUrl}/azuro.png`,
     audits: "2",
